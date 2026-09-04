@@ -1,0 +1,1 @@
+"Hey there! To contribute, just fork this repo, create a new branch for your feature, and submit a pull request. Keep your code clean, add comments if things get complex, and have fun!
